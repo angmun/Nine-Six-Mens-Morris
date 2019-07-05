@@ -3,7 +3,7 @@
 # Citations: Nine Men's Morris Game Description: https://en.wikipedia.org/wiki/Nine_men%27s_morris
 #            Python pass-by-reference or pass-by-value: https://jeffknupp.com/blog/2012/11/13/is-python-callbyvalue-or-callbyreference-neither/
 
-from project1.framework import Game
+from framework import Game
 from copy import deepcopy
 
 # Unplayed board configuration
