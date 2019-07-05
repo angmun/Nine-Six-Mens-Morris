@@ -1,7 +1,7 @@
 # Test of the alpha-beta mini-max agents with depth limiting on Nine Men's Morris board
 
-from project1.alphabeta9 import MaxPlayer, MinPlayer
-from project1.nine_men_morris import NineMensMorris
+from alphabeta9 import MaxPlayer, MinPlayer
+from nine_men_morris import NineMensMorris
 max_player = MaxPlayer()
 min_player = MinPlayer()
 
