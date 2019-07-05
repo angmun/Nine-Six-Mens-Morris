@@ -2,7 +2,7 @@
 # Purpose: Alpha-beta mini-max agents with depth-limiting
 # Citations: Artifical Intelligence Text Book
 
-from project1.framework import Player
+from framework import Player
 from math import inf
 
 class MiniMaxPlayer(Player):
